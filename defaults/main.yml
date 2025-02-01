@@ -7,3 +7,5 @@ plex_deb_repo_key: "/etc/apt/keyrings/plexmediaserver.asc"
 plex_media_file_owner: nobody
 plex_media_file_group: nogroup
 plex_media_file_mode: 755
+
+plex_media_directories: []

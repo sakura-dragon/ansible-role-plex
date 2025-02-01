@@ -1,0 +1,15 @@
+galaxy_info:
+  role_name: plex
+  author: Sakura Dragon
+  description: Install the plex server on the host
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.10
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+        - bionic
